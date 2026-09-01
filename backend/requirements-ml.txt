@@ -9,6 +9,6 @@
 -r requirements.txt
 
 torch>=2.4.1
-torchvision>=0.19.1
+torchvision>=0.28.0
           # MTCNN face detection/cropping
 opencv-python-headless>=4.10.0.84
