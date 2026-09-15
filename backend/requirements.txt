@@ -22,5 +22,5 @@ redis>=5.1.1
 # --- Reporting & charts ---
 reportlab>=4.2.5
 matplotlib>=3.9.2
-numpy==2.5.2
+numpy==2.5.3
 Pillow>=10.4.0
